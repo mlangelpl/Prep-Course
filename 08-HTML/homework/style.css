@@ -1,20 +1,48 @@
 html{
-    background-color: rgb(231, 208, 180);
+    background-color: rgb(241, 238, 233);
 }
 h1{
-    color: rgb(4, 73, 163);
+    color: rgb(250, 251, 252);
+    display: flex;
+    justify-content: center;
 }
 img{
     width: 400px;
+    
 }
 #thirdDiv{
     height: 600px;
     width: 500px;
-    background-color: aquamarine;
+    background-color: rgb(229, 253, 245);
     padding: 50px;
-    border: 5px solid red;
+    border: 5px solid rgb(236, 223, 223);
+    margin-left: auto;
+    margin-right: auto;
 }
 #spanId{
+    color: rgb(250, 251, 252);
     font-size: 18px;
     margin: 50px;
+
+    display: flex;
+    justify-content: center;
+}
+body{
+    background-image: url("https://cdn.pixabay.com/photo/2016/06/02/02/33/triangles-1430105__340.png");
+    
+}
+h3{
+    color: rgb(250, 251, 252);
+    display: flex;
+    justify-content: center;
+}
+h4{
+    color: rgb(250, 251, 252);
+    display: flex;
+    justify-content: center;
+}
+a{
+    color: rgb(250, 251, 252);
+    display: flex;
+    justify-content: center;
 }
